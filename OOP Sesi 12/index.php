@@ -1,7 +1,7 @@
 <?php
 include 'pengunjung.php';
 
-	$pengunjung = new user(); //-gith./afrizaldea
+	$pengunjung = new pengunjung(); //-gith./afrizaldea
 	$pengunjung-> setnama('dea'); 
 	$pengunjung->setnamabelakang('afrizal');
 	$pengunjung->setkomen('oop php');
